@@ -20,7 +20,7 @@ console.log(nome);
     console.log(nome);
 }
 
-console;log(nome);
+console.log(nome);
 
 // // ~~~~~~~~~~PALAVRAS RESERVADAS~~~~~~~~~~/
 // // let while = 14 -> nao pode
